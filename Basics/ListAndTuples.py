@@ -42,3 +42,13 @@ print(number.pop(2))
 # Removing an element
 number.remove(3312)
 print(number)
+
+
+tup = (1,2,3,5,6,7,10)
+print(tup.count(5))
+print(tup.index(5))
+
+print(min(tup))
+print(max(tup))
+
+print(sum(tup))
