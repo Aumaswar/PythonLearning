@@ -1,45 +1,57 @@
-# #  Make a list with seven fruits name entered by the user
-# fruits = []
+# # #  Make a list with seven fruits name entered by the user
+# # fruits = []
 
-# f1 = input("Enter name of fruit: ")
-# fruits.append(f1)
-# f2 = input("Enter name of fruit: ")
-# fruits.append(f2)
+# # f1 = input("Enter name of fruit: ")
+# # fruits.append(f1)
+# # f2 = input("Enter name of fruit: ")
+# # fruits.append(f2)
 
-# f3 = input("Enter name of fruit: ")
-# fruits.append(f3)
+# # f3 = input("Enter name of fruit: ")
+# # fruits.append(f3)
 
-# f4 = input("Enter name of fruit: ")
-# fruits.append(f4)
+# # f4 = input("Enter name of fruit: ")
+# # fruits.append(f4)
 
-# f5 = input("Enter name of fruit: ")
-# fruits.append(f5)
+# # f5 = input("Enter name of fruit: ")
+# # fruits.append(f5)
 
-# f6 = input("Enter name of fruit: ")
-# fruits.append(f6)
+# # f6 = input("Enter name of fruit: ")
+# # fruits.append(f6)
 
-# f7 = input("Enter name of fruit: ")
-# fruits.append(f7)
+# # f7 = input("Enter name of fruit: ")
+# # fruits.append(f7)
 
-# print(fruits)
+# # print(fruits)
 
-# Accept marks  of 6 students and sort them
+# # Accept marks  of 6 students and sort them
 
-marks = []
+# marks = []
 
-s1 = int(input("Enter the marks of a student: "))
-marks.append(s1)
-s2 = int(input("Enter the marks of a student: "))
-marks.append(s2)
-s3 = int(input("Enter the marks of a student: "))
-marks.append(s3)
-s4 = int(input("Enter the marks of a student: "))
-marks.append(s4)
-s5 = int(input("Enter the marks of a student: "))
-marks.append(s5)
-s6 = int(input("Enter the marks of a student: "))
-marks.append(s6)
+# s1 = int(input("Enter the marks of a student: "))
+# marks.append(s1)
+# s2 = int(input("Enter the marks of a student: "))
+# marks.append(s2)
+# s3 = int(input("Enter the marks of a student: "))
+# marks.append(s3)
+# s4 = int(input("Enter the marks of a student: "))
+# marks.append(s4)
+# s5 = int(input("Enter the marks of a student: "))
+# marks.append(s5)
+# s6 = int(input("Enter the marks of a student: "))
+# marks.append(s6)
 
-marks.sort()
+# marks.sort()
 
-print(marks)
+# print(marks)
+
+# Check that a tuple can not be changed
+
+# tup = (1,2,5,"Aum")
+
+# tup[0] = 5
+
+# Sum of 4 numbers in a list
+
+l1 = [1,4,6,8]
+
+print(sum(l1))
