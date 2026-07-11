@@ -52,3 +52,4 @@ print(min(tup))
 print(max(tup))
 
 print(sum(tup))
+
